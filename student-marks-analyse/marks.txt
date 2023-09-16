@@ -1,0 +1,6 @@
+name, hrs, marks
+rahul, 2, 20
+yash, 4, 40
+priya, 5, 50
+praveen, 7, 70
+jack, 6, 
